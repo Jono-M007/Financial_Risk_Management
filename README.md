@@ -9,19 +9,19 @@ The projects include detailed analyses, simulations, and visualizations to help 
 ## Key Objectives:
 •	Understanding Risk Metrics: Learn how to calculate and interpret key risk metrics such as Value at Risk (VaR), Expected Shortfall, and Stress Testing results.
 
-•	Modeling Techniques: Explore different statistical and machine learning techniques for risk modeling, including logistic regression, decision trees, and random forests.
+•	Modeling Techniques: Explore different statistical and machine learning techniques for risk modelling, including logistic regression, decision trees, and random forests.
 
 •	Scenario Analysis: Perform scenario and sensitivity analyses to assess the impact of various economic conditions on a portfolio.
 
 •	Practical Implementation: Gain hands-on experience with R programming to implement risk management models and simulations.
 
 
-##Contributing
-If you would like to contribute to these projects, please fork the repository and submit a pull request.
+## Contributing
+If you want to contribute to these projects, please fork the repository and submit a pull request.
 
 
 ## Installation
-To run these projects, you need to have R installed on your system. You can download R from CRAN.
+You need to have R installed on your system to run these projects. You can download R from CRAN.
 
 
 ## Contact
